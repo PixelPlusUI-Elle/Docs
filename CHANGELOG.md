@@ -5,6 +5,36 @@
 
 ## Changelog
 
+### v3.6 (16.06.2021)
+* Latest May Patch Merged r37
+* Introduce Octavi's lockscreen clock
+* Battery : Redesign BatteryMeterView and Beautify it
+* Settings: Redesign storage summary donut header
+* Dashboard: Redesign searchbar header
+* Add a preview for dark theme Display > Dark Mode
+* Add LS Clocks IDE, Clockertino, Sticker Tag, type(alt)
+* Modify brightness slider icon
+* Add VOLTE icon toggle
+* VoLTE/VoWIFI Icon User Selectable Icons
+* Use OOS silent icon in statusbar
+* Bluetooth timeout feature
+* Wifi timeout feature
+* Nuked network indicators
+* Make power button press fp unlock toggleable
+* Allow to hide arrow for back gesture
+* AppLock: Add option to instantly lock app on closing
+* Rename Pornhub accent overlay to dark orange
+* Nuke Unnecessary Dividers
+* Keyguard: Lock icon improvements
+* Settings: Expose radio info (*#*#4636#*#*)
+* Move some battery Toggle back to battery tab
+* overlay: Update SimpleDeviceConfig
+* New Wall for New Version 3.5
+* APNs: Add Belong, Visible Wireless & Fix giffgaff
+* Add MediaPlayer() function for backward compatibility
+* Improved Performance & stability
+* Misc Changes and Fixes
+
 ### v3.5 (12.05.2021)
 * Latest May Patch Merged r37
 * Introduce Octavi's lockscreen clock
