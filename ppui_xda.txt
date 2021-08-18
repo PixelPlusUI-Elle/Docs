@@ -21,20 +21,27 @@ PixelPlusUI is another aftermarket AOSP ROM Minimal UI & close to Stock Android 
 [IMG]https://i.imgur.com/IVvuDEK.png[/IMG]
 
 
-[SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & Lead Developer
-- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Co-Lead & Project Manager
-- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Core Developer & Support Team
+[SIZE=5][B]- [URL='https://forum.xda-developers.com/m/kostyajrz.10385453/']Kostya Maslennikov[/URL] - Founder & lead Developer
+- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Co-lead & Project Manager
 - [URL='https://github.com/victor10520']Victor[/URL]  - Core Developer
-- [URL='https://forum.xda-developers.com/m/sarthakroy2002.8126733/']Sarthak Roy[/URL]  - Project Coordinator & Support Team [/B]
+- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Core Developer & Support Team
+- [URL='https://github.com/TikkiX2']Tikki[/URL]  - UI/UX Developer
+- [URL='https://forum.xda-developers.com/m/sarthakroy2002.8126733/']Sarthak [/URL]  - Project Coordinator & Support Team 
+- [URL='https://forum.xda-developers.com/m/allworkdone.11442851/']Abhishek[/URL]  - Support Team [/B]
 - And Also Our Hardworking Maintainers[/SIZE]
 
 
 [IMG]https://i.imgur.com/xTx1CqW.png[/IMG]
 
+[URL='https://ppui.site/gallery'][SIZE=6][B][COLOR=rgb(235, 107, 86)]Tap Here For Screenshots [/COLOR][/B][/SIZE][/URL]
+
+[SIZE=5] [B][COLOR=rgb(235, 107, 86)]NOTE[/COLOR][/B]: [/SIZE][SIZE=4]As we keep updating source so its hard to keep threads updated everytime everywhere so kindly visit our website for latest changes and screenshots or for more you can also visit our telegram group [/SIZE]
+
+[URL='https://ppui.site/changelog'][SIZE=6][B][COLOR=rgb(235, 107, 86)]Tap Here For CHANGELOG[/COLOR][/B][/SIZE][/URL]
 
 [code]
 Statusbar :
-Introduce VoLTE & VoWiFi icons picker 
+Introduce VoLTE & VoWiFi icons picker
 OOS Styled Network Traffic Activity Indicator
 Hiding Statusbar on the lock screen
 Show 4G Instead of LTE toggle
@@ -46,12 +53,21 @@ Require unlocking QS tiles
 WIFI/NFC, Mobile Data, Bluetooth Panel instead of full Settings
 
 Themes :
+Redesign Settings Homepage Header
+Settings: Implement Miui Inspired Custom Headers
+Bring back Gaming mode with dynamic mode
+Added Miui & ShapeShift Volume Panel Style
+Added PixelPlusUI Specific Lockscreen Clock
+Redesign QS Expanded Clock
+Introduce Android 12 Style Switches
+Clocks: Add Android S Clocks
+Implement Dynamic Volte/VoWifi Icon back again
 PixelPlusUI Paper App
 Pixel Theme Picker
 More color accents, clocks, and fonts
 Introduce 404 IDE Clock, Sammy highlight clock, Divided Lines Clock, MNML Clock, Fluid lock screen clock, SFUNY clock, etc in Display/Style and Wallpapers
 
-Hardware Buttons : 
+Hardware Buttons :
 Advance Restart
 Expanded volume panel
 Power Menu Customizations
@@ -73,7 +89,7 @@ Gestures :
 3-finger screenshot gesture
 Added Long Screenshot
 Double-tap to sleep on the status bar and lock screen
-Statusbar brightness control 
+Statusbar brightness control
 
 Security & Safety :
 Added System App Lock
@@ -88,7 +104,7 @@ Introduce Android 12 Style Search bar
 OOS Inspired Battery Meter view
 OOS Inspired Storage tab
 Brand New Qs Panel Look
-Brand New PixelPlusUI info in about device 
+Brand New PixelPlusUI info in about device
 
 Extra :
 Support for internal audio recording
@@ -107,44 +123,45 @@ Russian, Ukrainian, French, Polish, Turkish, Azerbaijani, Brazilian, etc transla
 [IMG]https://i.imgur.com/OUrMFhs.png[/IMG]
 
 
-[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/eleven/'][SIZE=7] SourceForge! [ TAP HERE ][/SIZE][/URL] 
+[B][URL='https://sourceforge.net/projects/pixelplusui-project/files/eleven/'][SIZE=7] SourceForge ! [/SIZE][/URL]
 
 
-[IMG]https://i.imgur.com/aNanj7v.png[/IMG]
+Note[/B]: Our OFFICIAL website download link is high speed download server and you don't need to mirror it. And it is little bit expensive so support from your side will help us a lot !
 
-[B]
-[URL='https://t.me/ppuich'][SIZE=5]DEVICE UPDATE TELEGRAM CHANNEL[/SIZE][/URL]
-[URL='https://t.me/ppuichat'][SIZE=5]SUPPORT/DISCUSSION TELEGRAM GROUP[/SIZE][/URL]
-[URL='https://twitter.com/pixelplusui'][SIZE=5]OUR OFFICIAL TWITTER HANDLE[/SIZE][/URL]
-[/B]
 
-[IMG]https://i.imgur.com/pmZkslu.png[/IMG]
+[B][IMG]https://i.imgur.com/aNanj7v.png[/IMG][/B]
+
+
+[SIZE=5][B]-- [/B] [/SIZE][B][URL='https://t.me/ppuich'][SIZE=5]DEVICE UPDATE TELEGRAM CHANNEL[/SIZE][/URL] [SIZE=5]--
+-- [/SIZE][/B][SIZE=5][B] [URL='https://t.me/ppuichat']SUPPORT/DISCUSSION TELEGRAM GROUP[/URL] --
+-- [URL='https://ppui.site'][SIZE=5]Visit our OFFICIAL Website[/SIZE][/URL]
+--  [URL='https://twitter.com/pixelplusui']OUR OFFICIAL TWITTER HANDLE[/URL] --[/B][/SIZE]
+
+
+[B][IMG]https://i.imgur.com/pmZkslu.png[/IMG]
 
 
 NOTE: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine.
-If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/B]
+If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.
 
 
-[B] [SIZE=5][COLOR=rgb(209, 72, 65)][B]CLEAN FLASH[/B][/COLOR][/SIZE] :[/B]
+[SIZE=5][COLOR=rgb(209, 72, 65)][B]CLEAN FLASH[/B][/COLOR][/SIZE] :[/B]
 - Download the latest build
 - Reboot to recovery.
 - Take a backup.
-- Wipe System, Data, Cache, Dalvik, Vendor [Only when you are decrypted else you have to format data in recovery]
-- Flash Latest Chinese Weekly Firmware
+- Format Data 
 - Flash the latest build
 - Flash Fcrypt [If you want to decrypt else u can skip]
-- Flash Magisk [OPTIONAL]
 - Reboot :p
 
 [B][COLOR=rgb(209, 72, 65)][B][SIZE=5]DIRTY FLASH[/SIZE][/B][/COLOR] :[/B]
 - Download the latest build
 - Reboot to recovery
 - Flash the latest build
-- Flash Magisk [OPTIONAL]
 - Wipe Cache
 - Reboot :p
 
-[B] [B][SIZE=5][COLOR=rgb(209, 72, 65)]What works?[/COLOR][/SIZE] [/B][/B]
+[B] [SIZE=5][COLOR=rgb(209, 72, 65)]What works?[/COLOR][/SIZE] [/B]
 
 Wifi | RIL | Mobile data | GPS | Camera
 Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibration
@@ -172,8 +189,8 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 - Octavi-OS
 - Wave-Project
 - ShapeShiftOS
-- Project-404
-[/SIZE][/B]
+- Project-404[/SIZE][/B]
+
 [SIZE=4][B]- Others, I forgot to mention[/B][/SIZE]
 
 [B][SIZE=4]PixelPlusUI XDA Logo and Banners[/SIZE][/B]
@@ -183,10 +200,11 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 [IMG]https://i.imgur.com/mzlfqhe.png[/IMG]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]11.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] June 2021[/B][/COLOR]
-- [B]Build author/Device Maintainer[/B] : <MaintainerNameHere>
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] August 2021[/B][/COLOR]
+- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
-- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR][B]  [/B] 
+- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]   
+
 
 [SIZE=5][B]Sources and Documentation[/B][/SIZE][/B][/SIZE]
 
@@ -194,11 +212,11 @@ As soon as the problem occurs, take a logcat and please inform us via Telegram o
 - [B][URL='https://github.com/Panchajanya1999/msm-4.14'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B]
 - [B][URL='https://github.com/PixelPlusUI-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE]
 
-[img]https://i.imgur.com/tRCvd6U.jpg[/img]
+[IMG]https://i.imgur.com/tRCvd6U.jpg[/IMG]
 
 [SIZE=6][COLOR=rgb(226, 80, 65)]---------- DONATION LINKS ---------- [/COLOR][/SIZE]
 
-[B][SIZE=4]As you know build is free but building ROM needs a server. And Maintaining source and device stuff needs a server and it's pretty expensive for a student. It will be really helpful and appreciated if you donate or contribute to us. Also if you have any queries related to donation you can freely message -> [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav (Co-Lead Dev)[/URL] [/SIZE][/B]
+[B][SIZE=4]As you know build is free but building ROM needs a server. And Maintaining source and device stuff needs a server and it's pretty expensive for a student. It will be really helpful and appreciated if you donate or contribute to us. Also if you have any queries related to donation you can freely message -> [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav (Co-lead Dev)[/URL] [/SIZE][/B]
 
 [SIZE=4][B]PAYTM UPI ID[/B][/SIZE][B][SIZE=4] : dwarmachine24@paytm
 GPAY UPI ID: dwarmachine24@oksbi[/SIZE][/B]
